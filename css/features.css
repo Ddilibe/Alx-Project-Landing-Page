@@ -2,6 +2,7 @@
 	display: flex;
 	flex-direction: column;
 	color: white;
+	margin: 15% 10%;
 }
 
 .feature_title {
@@ -27,11 +28,12 @@ hr{
 
 .feature_image {
 	width: 100%;
+	height: 350px;
 }
 
 .feature_image>img {
 	width: 100%;
-	height: 200px;
+	height: 100%;
 }
 
 .list_title {
