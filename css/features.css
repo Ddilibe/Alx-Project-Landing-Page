@@ -1,0 +1,39 @@
+.features {
+	display: flex;
+	flex-direction: column;
+	color: white;
+}
+
+.feature_title {
+	text-align: center;
+	font-size: 50px;
+}
+
+.feature_list {
+	display: flex;
+	margin: 10% 0%;
+}
+
+hr{
+	width: 90%;
+	margin: 5% 0%;
+	border: solid 3px blue;
+	border-radius: 5px;
+}
+
+.free_feature {
+	width: 33%;
+}
+
+.feature_image {
+	width: 100%;
+}
+
+.feature_image>img {
+	width: 100%;
+	height: 200px;
+}
+
+.list_title {
+	font-size: 30px;
+}
